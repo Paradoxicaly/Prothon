@@ -1,0 +1,5 @@
+
+__pycache__/
+*.pyc
+ubiquitin-md-generated-ensemble/
+
